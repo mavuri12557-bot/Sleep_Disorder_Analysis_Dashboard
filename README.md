@@ -1,4 +1,6 @@
 # 💤 Sleep Disorder Analysis Dashboard  
+![Dashboard](https://github.com/user-attachments/assets/f4fbbc61-053e-4ab0-a49a-523a0a6a45a1)
+
 
 Welcome to the **Sleep Disorder Analysis Dashboard Project**!  
 This repository contains a comprehensive **Power BI dashboard** that uncovers meaningful insights into sleep disorders such as **Insomnia** and **Sleep Apnea**. The project highlights how **data analytics, visualization, and storytelling** can be combined to drive awareness and actionable insights around sleep health.  
